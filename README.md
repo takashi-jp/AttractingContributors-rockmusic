@@ -26,3 +26,5 @@ Please tell me a singer / group / band that you enjoy.
 1. SuperBeaver
 2. Dream Theater
 3. PAS TASTA
+4. YOASOBI
+
