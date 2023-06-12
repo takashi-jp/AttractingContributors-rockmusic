@@ -18,7 +18,7 @@ To complete the assignment, please do the following:
 # My Project (Rock Music-collection)
 I love rock music. Please tell me anything about your favorite music. 
 
-# List of Rock music
+# Takashi's lists of artists
 1. The Beatles
 2. Oasis
 3. Red Hot Chili Peppers
@@ -29,3 +29,4 @@ I love rock music. Please tell me anything about your favorite music.
 8. Avril Lavigne
 9. Coldplay
 10. Ed Sheeran
+
