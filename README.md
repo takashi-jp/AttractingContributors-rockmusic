@@ -15,9 +15,17 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My Project (Rock Music-collection)
+I love the rock music. Please tell me anything about your lovely music. 
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Rock music
+1. The Beatles
+2. Oasis
+3. Red Hot Chili Peppers
+4. Nirvana
+5. LINKIN PARK
+6. Foo Fighters
+7. Green Day
+8. Avril Lavigne
+9. Coldplay
+10. Ed Sheeran
