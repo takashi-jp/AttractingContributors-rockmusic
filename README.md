@@ -16,7 +16,7 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (Rock Music-collection)
-I love rock music. Please tell me anything about your lovely music. 
+I love rock music. Please tell me anything about your favorite music. 
 
 # List of Rock music
 1. The Beatles
