@@ -29,3 +29,4 @@ Please tell me a singer / group / band that you enjoy.
 4. YOASOBI
 5. SMAP
 6. Mr.Children
+8. BUMP OF CHICKEN
