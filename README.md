@@ -28,4 +28,4 @@ Please tell me a singer / group / band that you enjoy.
 3. PAS TASTA
 4. YOASOBI
 5. SMAP
-
+6. Mr.Children
