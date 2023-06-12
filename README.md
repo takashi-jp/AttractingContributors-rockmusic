@@ -30,3 +30,4 @@ Please tell me a singer / group / band that you enjoy.
 5. SMAP
 6. Mr.Children
 7. May Day
+8. Sukima Switch
