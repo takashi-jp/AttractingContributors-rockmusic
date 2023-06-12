@@ -29,5 +29,6 @@ Please tell me a singer / group / band that you enjoy.
 4. YOASOBI
 5. SMAP
 6. Mr.Children
-7. May Day
-8. Sukima Switch
+7. LiSA
+8. May Day
+9. Sukima Switch
