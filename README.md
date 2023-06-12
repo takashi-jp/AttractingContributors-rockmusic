@@ -20,9 +20,7 @@ To complete the assignment, please do the following:
 
 [Discussion topic](https://github.com/NAIST-SE/AttractingContributors/discussions/808)
 
-
 Please tell me a singer / group / band that you enjoy.
 
 # List of Singers you like
-
 1. SuperBeaver
