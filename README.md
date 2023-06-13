@@ -30,3 +30,4 @@ I would like you to tell me your favorite music.
 3. Music / sakanaction
 4. いいだけ / Kabanagu
 5. Rock
+6. Too Bad / JJ Lin
