@@ -14,6 +14,7 @@ Thank you in advance!
 8. Amano Hashidate, Kyoto, Japan
 9. Saga
 10. New York
+11. Yokohama
 
 
 
