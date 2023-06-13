@@ -28,5 +28,6 @@ I would like you to tell me your favorite music.
 1. idol
 2. アンチノミー / amazarashi
 3. Music / sakanaction
-4. Rock
-5. Too Bad / JJ Lin
+4. いいだけ / Kabanagu
+5. Rock
+6. Too Bad / JJ Lin
