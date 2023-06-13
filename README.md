@@ -8,6 +8,6 @@ Goal - I want contributors to help me list some favorite Manga.
 5. WorldTrigger
 6. DEATH NOTE
 7. chainsaw man
-8.
+8. Fuuka （風夏）　
 9.
 10.
