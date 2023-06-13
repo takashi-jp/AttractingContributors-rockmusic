@@ -11,3 +11,4 @@ Goal - I want contributors to help me list some favorite Manga.
 8. Fuuka （風夏）　
 9. Your Lie in April
 10. バクマン
+11. Made in abys
