@@ -28,4 +28,5 @@ I would like you to tell me your favorite music.
 1. idol
 2. アンチノミー / amazarashi
 3. Music / sakanaction
-4. Rock
+4. いいだけ / Kabanagu
+5. Rock
