@@ -32,3 +32,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. Dr Pepper
 10. Sake
 11. Lassi
+12. Beer
+
