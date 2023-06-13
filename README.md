@@ -7,7 +7,7 @@ Goal - I want contributors to help me list some favorite Manga.
 4. BLEACH
 5. WorldTrigger
 6. DEATH NOTE
-7.
+7. chainsaw man
 8.
 9.
 10.
