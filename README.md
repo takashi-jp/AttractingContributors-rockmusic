@@ -32,3 +32,4 @@ I would like you to tell me your favorite music.
 5. Rock
 6. Too Bad / JJ Lin
 7. ケセラセラ /　Mrs. GREEN APPLE
+8. 青春なんていらないわ / 三月のパンタシア
