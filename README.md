@@ -34,3 +34,4 @@ Please tell me a singer / group / band that you enjoy.
 9. Sukima Switch
 10. BUMP OF CHICKEN
 11. amazarashi
+12. Oasis
