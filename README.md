@@ -18,6 +18,8 @@ To complete the assignment, please do the following:
 # My Project (Rock Music-collection)
 I love rock music. Please tell me anything about your favorite music. 
 
+Please add your favorite artists to blow lists!!!!
+
 # Lists of favorite artists
 1. The Beatles
 2. Avicii
