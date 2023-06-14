@@ -15,6 +15,7 @@ Thank you in advance!
 9. Saga
 10. New York
 11. Yokohama
+12. California
 
 
 
