@@ -20,13 +20,7 @@ I love rock music. Please tell me anything about your favorite music.
 
 # Lists of favorite artists
 1. The Beatles
-2. Oasis
-3. Red Hot Chili Peppers
-4. Nirvana
-5. LINKIN PARK
-6. Foo Fighters
-7. Green Day
-8. Avril Lavigne
-9. Coldplay
-10. Ed Sheeran
-11. No Simple Thing
+2. Hige DriVAN
+3. Spitz
+4. May Day
+5. No Simple Thing
