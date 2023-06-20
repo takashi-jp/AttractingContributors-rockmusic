@@ -7,4 +7,5 @@ So please tell me your favorite game. Any kind (for example, it can be a board g
 種類は問いません（ソシャゲでもボードゲームの種類でも）
 
 
-# List of Hobby
+# List of game
+granbluefantasy
