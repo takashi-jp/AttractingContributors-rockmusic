@@ -13,3 +13,4 @@ Please add your favorite artists to blow lists!!!!
 7. linkin park
 8. The Who
 9. Alexandros
+10. X japan
